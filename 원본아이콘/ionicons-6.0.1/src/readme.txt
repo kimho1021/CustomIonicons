@@ -1,0 +1,1 @@
+- svg(converted)는 "https://iconly.io/tools/svg-convert-stroke-to-fill"을 통해 "svg"을 변환한 것임
