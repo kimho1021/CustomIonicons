@@ -1,1 +1,2 @@
-- svg(converted)는 "https://iconly.io/tools/svg-convert-stroke-to-fill"을 통해 "svg"을 변환한 것임
+- 기존 ionicons-6.0.1의 svg파일을 https://icomoon.io/#docs/local-fonts을 통해 font icons으로 만듦
+- SVG 파일은 "https://iconly.io/tools/svg-convert-stroke-to-fill"을 통해 변환된 것임
